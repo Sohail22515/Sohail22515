@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 Exploring **Web Development and Cloud Computing**
-
-- 📫 How to reach me **sohail22515@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

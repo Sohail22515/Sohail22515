@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohail</h1>
+<h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 Exploring **Web Development and Cloud Computing**

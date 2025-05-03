@@ -17,6 +17,7 @@
   <a href="" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="jyot" height="150" width="150" /></a>
   <a href="" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="150" width="150" /></a>
   <a href="" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-03.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="150" width="150" /></a>
 
 </p>
 
